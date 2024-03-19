@@ -28,5 +28,6 @@ null safety
 
 ## 항목
 
-[variables](./variables/variables.md)
+- [variables](./variables/variables.md)
+- [types](./types/types.md)
 
