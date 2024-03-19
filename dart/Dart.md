@@ -26,4 +26,7 @@ null safety
 
 - 세미 콜론이 붙은 것과 붙지 않은 것의 역할이 다름
 
+## 항목
+
+[variables](./variables/variables.md)
 
