@@ -31,4 +31,5 @@ null safety
 - [variables](./1.%20variables/variables.md)
 - [types](./2.%20types/types.md)
 - [functions](./3.%20functions/functions.md)
+- [classes](./4.%20classes/classes.md)
 
