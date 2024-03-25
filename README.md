@@ -1,2 +1,9 @@
 # nomad
-nomad coder 강의 따라하기
+
+이것저것 따라해 보는 레파지토리
+
+## 분류
+
+### Dart
+
+- [Dart 기본 문법](./dart/Dart.md)
