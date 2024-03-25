@@ -32,4 +32,7 @@ null safety
 - [types](./2.%20types/types.md)
 - [functions](./3.%20functions/functions.md)
 - [classes](./4.%20classes/classes.md)
+- [etc](./5.%20etc/etc.md)
+
+
 
